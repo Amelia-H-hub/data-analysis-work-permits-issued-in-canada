@@ -1,0 +1,14 @@
+province,region,short_name,iso_code
+Newfoundland and Labrador,Atlantic Region,NL,CA-NL
+Prince Edward Island,Atlantic Region,PE,CA-PE
+Nova Scotia,Atlantic Region,NS,CA-NS
+New Brunswick,Atlantic Region,NB,CA-NB
+Quebec,Central Canada,QC,CA-QC
+Ontario,Central Canada,ON,CA-ON
+Manitoba,Prairie Provinces,MB,CA-MB
+Saskatchewan,Prairie Provinces,SK,CA-SK
+Alberta,Prairie Provinces,AB,CA-AB
+British Columbia,West Coast,BC,CA-BC
+Nunavut,North,NU,CA-NU
+Northwest Territories,North,NT,CA-NT
+Yukon,North,YT,CA-YT
